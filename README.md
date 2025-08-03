@@ -83,7 +83,7 @@ Health data analysis (e.g., blood pressure, cholesterol, BMI)
 
 Industrial sensor analysis (e.g., temperature, vibration, pressure)
 
-🧑‍💼 About Me
+🧑‍💼 About Me - 
 Hi, I’m Nikita Albela, passionate about applying machine learning to uncover hidden patterns in data.
 🔗 Connect with me on LinkedIn - www.linkedin.com/in/nikita-albela-4194b1164
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
